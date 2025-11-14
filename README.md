@@ -1,7 +1,16 @@
-This is a repository for my school projects that I want to share.
+**School Projects**
+This repository contains a collection of my school projects that I want to share. Below is a list of the projects along with short descriptions of each.
 
-List of the projects and some information about each of them:
+**Projects**
+Hangman (Hirsipuupeli)
+A simple Hangman game created during the Programming 1 course.
+This project focuses on building a functional GUI application.
 
-- Hangman(hirsipuupeli): I made this game in the course "Programming 1" as a project that utilizes GUI
-- Battleship(laivanupotus): I made this game in the course "Programming 1" as a project that utilizes object-oriented programming
-- Path: This was a project on the course "Programming 3". I made this with my friend. The 
+Battleship (Laivanupotus)
+A Battleship game developed in the Programming 1 course.
+Its main goal was to practice object-oriented programming principles.
+
+Path
+A project from the Programming 3 course.
+I implemented gameboard.cpp and the unit tests together with a friend.
+The main.cpp and gameboard.hh were provided by the course staff, but everything inside the private section of gameboard.hh as well as getPlayArea() was implemented by us.
