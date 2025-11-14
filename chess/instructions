@@ -1,0 +1,15 @@
+Pelin säännöt:
+Peli on yksinkertaistettu versio shakista eli toimii muuten samalla tavalla, mutta
+kuningasta ei voi shakittaa eli jos se on jonkun nappulan "näköpiirissä",
+voi edelleen liikuttaa muita nappuloita. Peli myöskään ei lopu shakkimattiin vaan,
+kun toisen pelaajan kuningas syödään. Tasapelejä ei myöskään siis voi saada.
+
+Pelin toteutus:
+Peli alkaa valkoisen siirtovuorosta heti kun ohjelman ajaa.
+Nappuloiden liikuttaminen tapahtuu klikkaamalla ensin ruutua, jossa olevaa nappulaa
+halutaan liikuttaa ja sitten klikkaamalla ruutua, johon se halutaan siirtää.
+Ensimmäisen klikkauksen jälkeen tulee näkyville kaikki mahdolliset ruudut, joihin pelaaja voi
+liikuttaa kyseisen nappulan. Jos pelaaja painaa sallittua ruutua siirto tapahtuu.
+
+Restart nappia painamalla peli alkaa alusta.
+Quit nappia painamalla ohjelma sulkeutuu.
