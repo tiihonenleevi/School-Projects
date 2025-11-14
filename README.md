@@ -18,7 +18,7 @@ The main.cpp and gameboard.hh were provided by the course staff, but everything 
 
 **Chess:**
 A project from the Programming 3 course.
-A simplified chess game implemented with a graphical user interface using Qt. The project was completed in collaboration with a teammate.
+A simplified chess game implemented with a graphical user interface using Qt. The project was based on a pre-provided course template, with core Chess, ChessBoard, and Pawn/Knight logic already implemented. The project was completed in collaboration with a teammate.
 Our contributions:
 - Implemented Rook, Bishop, Queen, and King classes with correct movement rules.
 - Added helper methods `check_moves_in_direction` and `check_moves_diagonally` to the ChessPiece class to simplify calculating allowed moves.
